@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Nodejs**
 
-- 📫 How to reach me **https://www.linkedin.com/in/akshal-raina-915a3b1a4/**
+- 📫 How to reach me **https://www.linkedin.com/in/akshalraina/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
